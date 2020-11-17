@@ -26,4 +26,4 @@ require (
 
 
 replace golang.org/x/crypto => github.com/ProtonMail/crypto v0.0.0-20200605105621-11f6ee2dd602
-replace github.com/emersion/go-imap => github.com/iot-resister/go-imap v1.0.8
+replace github.com/emersion/go-imap => github.com/iot-resister/go-imap v1.0.9
